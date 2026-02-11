@@ -1,5 +1,5 @@
-first_number = input("Enter the first number:\n")
-second_number = input("Enter the second number:\n")
+first_number = input("Enter the first number: ")
+second_number = input("Enter the second number: ")
 
 try:
     first_number = int(first_number)
