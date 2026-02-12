@@ -10,11 +10,11 @@ R...
 """
     checkmate(board)
 
-# board = """\
+#     board = """\
 # ..
 # .K\
 # """
-# checkmate(board)
+#     checkmate(board)
 
 if __name__ == "__main__":
     main()
