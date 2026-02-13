@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from checkmate import checkmate
 
 def main():

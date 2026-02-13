@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def is_zero(n: str) -> bool:
     """Check if the input string represents the integer zero."""
     try:

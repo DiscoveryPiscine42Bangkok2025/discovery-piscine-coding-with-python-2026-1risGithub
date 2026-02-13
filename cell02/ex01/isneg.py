@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def is_negative(n: str) -> float:
     """
     Check if the input string represents a negative integer.

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def average(grades):
     total = sum(grades.values())
     count = len(grades)

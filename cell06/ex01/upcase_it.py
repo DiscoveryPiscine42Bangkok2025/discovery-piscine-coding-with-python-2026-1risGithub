@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def upcase_it(text):
     return text.upper()
 

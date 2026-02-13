@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 first_number = input("Enter the first number: ")
 second_number = input("Enter the second number: ")
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def greetings(name="noble stranger"):
     if isinstance(name, str):
         print(f"Hello, {name}.")

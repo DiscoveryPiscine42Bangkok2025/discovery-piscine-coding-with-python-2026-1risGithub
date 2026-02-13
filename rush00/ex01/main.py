@@ -1,6 +1,7 @@
+#!/usr/bin/env python
+
 import sys
 from checkmate import checkmate
-
 
 def load_board(filename):
     with open(filename, "r") as f:

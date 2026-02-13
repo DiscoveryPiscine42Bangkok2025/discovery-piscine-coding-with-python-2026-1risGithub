@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 def array_of_names(people: dict) -> list:
     return [
         f"{first.capitalize()} {last.capitalize()}"
